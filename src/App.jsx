@@ -1,12 +1,14 @@
 import './App.css'
+import Content from './components/Content'
+import Header from './components/Header'
 
 function App() {
 
   return (
     <>
-      <div>
-        <h1>12/31/23</h1>
-        <p>Coding for the last day last time in 2023. More codes in 2024</p>
+      <div className='container-wrapper'>
+        <Header/> 
+        <Content/>
       </div>
     </>
   )

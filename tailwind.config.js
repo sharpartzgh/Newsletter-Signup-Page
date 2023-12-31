@@ -5,7 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'bg-mobile': "url('../images/illustration-sign-up-mobile.svg')"
+      }
+    },
   },
   plugins: [],
 }
