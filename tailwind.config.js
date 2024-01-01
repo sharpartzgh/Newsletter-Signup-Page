@@ -8,6 +8,9 @@ export default {
     extend: {
       backgroundImage: {
         'bg-mobile': "url('../images/illustration-sign-up-mobile.svg')"
+      },
+      colors:{
+        'primary':"bg-[#1D213C]"
       }
     },
   },
