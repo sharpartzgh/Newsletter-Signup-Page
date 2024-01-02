@@ -18,7 +18,7 @@ const Content = () => {
           <FaCheckCircle className=' mt-1 text-[#FF5D4F]' /><span>Measuring to ensure updates are a success</span>
         </div>
         <div className='flex gap-2 items-center'>
-          <FaCheckCircle className='text-[#FF5D4F]' /><span>An much!</span>
+          <FaCheckCircle className='text-[#FF5D4F]' /><span>And much!</span>
         </div>
       </div>
       <InputField />
