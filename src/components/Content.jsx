@@ -5,7 +5,7 @@ import InputField from './InputField';
 
 const Content = () => {
   return (
-    <div className='container-wrapper '>
+    <div className='container-wrapper'>
       <div className='maintext p-5'>
         <h1 className="text-[#1D213C] text-[2em] font-bold">Stay Updated!</h1>
         <p className='sm:text-[15px] mt-3'>Join over 60,000+ product managers receiving monthly updates on: </p>
